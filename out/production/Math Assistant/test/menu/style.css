@@ -1,0 +1,25 @@
+.button:hover{
+    -fx-background-color: #0001;
+}
+.button:pressed{
+    -fx-background-color: #09F8;
+}
+.button{
+    -fx-background-color: #0000;
+}
+.HBox{
+    -fx-background-color: #006699;
+}
+
+.scroll-bar:vertical{
+    -fx-background-color: #FFF;
+
+}
+.scroll-bar:horizontal{
+    -fx-background-color: #FFF;
+
+}
+.scroll-pane{
+    -fx-background-insets: 5,5,5,5;
+    -fx-background-image: "Resource\\scientific.png";
+}
